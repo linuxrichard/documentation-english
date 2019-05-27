@@ -1,7 +1,7 @@
 # Content: Pages
 <!-- position: 3 -->
 
-The bellow example are for the type **Pages**, which are published (visible for the users).
+The below examples are for the type **Pages**, which are published (visible for the users).
 
 <h2 id="list-all-pages-from-the-active-page">List all pages from the active page</h2>
 
